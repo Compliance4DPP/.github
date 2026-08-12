@@ -1,4 +1,5 @@
 # Compliance4DPP Project
+Fostering Resilient and Auto-Compliant Manufacturing Value Chains through Advanced Digital Product Passports and Interoperable Data Ecosystems for a Circular Economy
 
 ## About
 
@@ -9,6 +10,13 @@ COMPLIANCE4DPP will leverage Gaia-X architectural frameworks and proven practice
 COMPLIANCE4DPP will leverage Gaia-X architectural frameworks and proven practices to ensure transparency, openness, reliability, security, and interoperability in data exchange with auto-compliance tools along the value chain with digital product passport (DPP).
 
 The overall objective of COMPLIANCE4DPP is to support the green and digital transition. It enhances existing sovereign and interoperable data service ecosystem architecture with automated compliance demonstrated on the challenging DPP regulation.
+
+## Coordinator
+EIT Manufacturing East GmbH, [https://eitmanufacturing-east.eu/](https://eitmanufacturing-east.eu/)
+
+## Timing
+- Start: June 1, 2026
+- End: May 31, 2029
 
 ## Funding
 
