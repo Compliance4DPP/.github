@@ -10,6 +10,8 @@ COMPLIANCE4DPP will leverage Gaia-X architectural frameworks and proven practice
 
 The overall objective of COMPLIANCE4DPP is to support the green and digital transition. It enhances existing sovereign and interoperable data service ecosystem architecture with automated compliance demonstrated on the challenging DPP regulation.
 
+## Funding
+
 The Compliance4DPP Project has received co-funding from European Union’s Horizon Europe Programme under the Grant Agreement No. 101298718.
 
 ## Website
