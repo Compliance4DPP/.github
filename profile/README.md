@@ -2,7 +2,7 @@
 Fostering Resilient and Auto-Compliant Manufacturing Value Chains through Advanced Digital Product Passports and Interoperable Data Ecosystems for a Circular Economy
 
 ## Logo
-![](Compliance4DPPLogo.svg)
+![](Compliance4DPPLogo.png)
 
 ## About
 
