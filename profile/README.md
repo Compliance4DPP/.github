@@ -1,6 +1,10 @@
 # Compliance4DPP Project
 Fostering Resilient and Auto-Compliant Manufacturing Value Chains through Advanced Digital Product Passports and Interoperable Data Ecosystems for a Circular Economy
 
+## Website
+
+Website: [https://compliance4dpp.eu/](https://compliance4dpp.eu/)
+
 ## Logo
 ![](Compliance4DPPLogo.png)
 
@@ -23,8 +27,6 @@ EIT Manufacturing East GmbH, [https://eitmanufacturing-east.eu/](https://eitmanu
 
 ## Funding
 
-The Compliance4DPP Project has received co-funding from European Union’s Horizon Europe Programme under the Grant Agreement No. 101298718.
+![](https://ec.europa.eu/regional_policy/images/information-sources/logo-download-center/eu_funded_en.jpg)
 
-## Website
-
-to be released in August 2026.
+Funded by the European Union under Horizon Europe Grant Agreement No. 101298718 — COMPLIANCE4DPP. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the granting authority. Neither the European Union nor the granting authority can be held responsible for them.
